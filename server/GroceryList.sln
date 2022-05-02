@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroceryList", "GroceryList\GroceryList.csproj", "{0869C350-3162-44B0-B8DC-2C6F6348504A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EEF53D18-0D00-4971-93A3-D1BFD9FD4AA1}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryList.IntegrationTests", "GroceryList.IntegrationTests\GroceryList.IntegrationTests.csproj", "{4B88C437-D6F3-45F4-96E4-AD22CF4C29D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0869C350-3162-44B0-B8DC-2C6F6348504A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0869C350-3162-44B0-B8DC-2C6F6348504A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0869C350-3162-44B0-B8DC-2C6F6348504A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0869C350-3162-44B0-B8DC-2C6F6348504A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B88C437-D6F3-45F4-96E4-AD22CF4C29D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B88C437-D6F3-45F4-96E4-AD22CF4C29D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B88C437-D6F3-45F4-96E4-AD22CF4C29D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B88C437-D6F3-45F4-96E4-AD22CF4C29D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76347DD9-345A-4D1C-A02D-AB974FD7D78A}
+	EndGlobalSection
+EndGlobal
